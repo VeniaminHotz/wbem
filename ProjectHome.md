@@ -1,0 +1,1 @@
+Wbem client that analyzes event
